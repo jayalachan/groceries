@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+lista_maestra.json
+selecciones_semanales.json
+user_data.json
+__pycache__/
+*.pyc
